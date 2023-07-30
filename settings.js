@@ -21,18 +21,18 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['94740952096'] //ur owner number
-global.ownernomer = "94740952096" //ur owner number2
+global.owner = ['94718685951'] //ur owner number
+global.ownernomer = "94718685951" //ur owner number2
 global.ownername = "🦄Dream Guy Xeon" //ur owner name
 global.ytname = "YT: Xeon" //ur yt chanel name
 global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.location = "Sri lanaka, southern, matara" //ur location
 
 //new
 global.botname = "Cheems Bot MD V8"
-global.ownernumber = '94740952096'
+global.ownernumber = '94718685951'
 global.ownername = '🦄 Xeon'
-global.ownerNumber = ["94740952096@s.whatsapp.net"]
+global.ownerNumber = ["94718685951@s.whatsapp.net"]
 global.ownerweb = "https://youtube.com/@DGXeon"
 global.websitex = "https://youtu.be/L_SIk59QeAU"
 global.wagc = "https://chat.whatsapp.com/LEPCwTYglOuGctPB70K6OQ"
